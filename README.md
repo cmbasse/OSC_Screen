@@ -1,5 +1,5 @@
 # OSC Screen Control 
-## Allows the controll of a projection screen using OSC comands
+## Allows the controll of a projection screen using OSC commands
 
 ### Future Updates
 1. Add web status page
